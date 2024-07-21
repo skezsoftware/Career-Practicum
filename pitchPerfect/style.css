@@ -1,0 +1,49 @@
+body {
+  letter-spacing: 1px;
+}
+h2 {
+  background-color: #ffefd5;
+}
+article {
+  font-size: 20px;
+}
+li {
+  font-size: 20px;
+}
+p {
+  font-style: italic;
+  font-size: 18px;
+}
+.firstPitch {
+  padding: 10px;
+}
+.pitchImportant {
+  padding: 10px;
+}
+.transferableSkill {
+  padding: 10px;
+}
+.sayPitch {
+  padding: 10px;
+}
+.myTurn {
+  padding: 10px;
+}
+.myPitch {
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+.skillsList {
+  clear: both;
+}
+.list_1 {
+  width: 50%;
+  float: left;
+  padding-top: 10px;
+}
+.list_2 {
+  padding-top: 20px;
+}
